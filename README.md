@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Jocimar Costa</h1>
-<h3 align="center">Sou estudante de programação Autodidata </h3>
+<h3 align="center">Sou estudante de programação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jocimarjsc" alt="jocimarjsc" /> </p>
 
