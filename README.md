@@ -2,7 +2,7 @@
 
 > Sempre amei computadores e tecnologia em geral. Me interessei pelo Desenvolvimento e comecei a aprender sozinho em casa. Sou apaixonado por programação..
 
-🔭 Atualmente iniciei um projeto [Church](https://github.com/jocimarjsc/church-api), a ideia é que vai existir uma página onde vai ficar um carrocel, passando os anúncios cadastrados no dashboad.
+🔭 Atualmente iniciei um projeto [Church-api](https://github.com/jocimarjsc/church-api), a ideia é que vai existir uma página onde vai ficar um carrocel, passando os anúncios cadastrados no dashboad. Objetivo é desenvolver a api e o front.
 
 ----
 
