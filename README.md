@@ -5,7 +5,7 @@
 
 🔭 Atualmente estou em busca de uma oportunidade de trabalho
 
-💻 Todos meus projetos estão disponível em [github/jocimarjs](https://github.com/jocimarjsc)
+💻 Todos meus projetos estão disponível em [github/jocimarjs/](https://github.com/jocimarjsc?tab=repositories)
 
 📫 Pode falar comigo pelo e-mail **jocimarjsc@yahoo.com.br**
 
