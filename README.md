@@ -9,7 +9,7 @@
 
 💻 Todos meus projetos estão disponível em [github/jocimarjs/](https://github.com/jocimarjsc?tab=repositories)
 
-📫 Pode falar comigo pelo e-mail **jocimarjsc@yahoo.com.br**
+📫 Para falar comigo pelo e-mail **jocimarjsc@yahoo.com.br**
 
 ## 🚀 Minhas Skills
 
