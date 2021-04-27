@@ -5,6 +5,8 @@
 
 🔭 Atualmente estou em busca de uma oportunidade de trabalho
 
+🌱 Atualmente estou estudando sobre <img src="https://img.icons8.com/color/18/000000/typescript.png"/> <img src="https://img.icons8.com/color/18/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/18/000000/react-native.png"/>
+
 💻 Todos meus projetos estão disponível em [github/jocimarjs/](https://github.com/jocimarjsc?tab=repositories)
 
 📫 Pode falar comigo pelo e-mail **jocimarjsc@yahoo.com.br**
