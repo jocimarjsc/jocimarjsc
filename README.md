@@ -23,7 +23,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jocimarjsc&show_icons=true" alt="jocimarjsc"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jocimarjsc&show_icons=true&theme=dracula" alt="jocimarjsc"/> 
 </p>
 
 <p align="center">
